@@ -49,7 +49,7 @@ cifar10-classifier/
 
 ├─ app.py
 
-├─ README.md
+└─ README.md
 
 ## Notes
 
